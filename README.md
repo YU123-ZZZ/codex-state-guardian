@@ -121,10 +121,3 @@ README.md                使用说明和 GitHub 首页说明
 
 - 恢复前建议先关闭 Codex。
 - 不输入 `确认` 不会覆盖当前文件。
-- 不要把 `codex-state-backups` 上传到 GitHub。
-- 不要把自己的 `.codex` 目录上传到 GitHub。
-- 如果要公开发布，建议先检查仓库里没有个人配置、聊天记录、密钥或隐私内容。
-
-## 许可证
-
-如果你准备公开开源，建议添加一个 `LICENSE` 文件。常见选择是 MIT License。
