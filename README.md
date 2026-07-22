@@ -1,5 +1,9 @@
 # ChatGPT(Codex) 备份恢复守护
 
+<p align="center">
+  <a href="https://github.com/YU123-ZZZ/ChatGPT-Codex--state-guardian/stargazers"><img src="https://img.shields.io/github/stars/YU123-ZZZ/ChatGPT-Codex--state-guardian?style=for-the-badge&logo=github&label=Stars&color=ff69b4" alt="Stars"></a><a href="https://github.com/YU123-ZZZ/ChatGPT-Codex--state-guardian/forks"><img src="https://img.shields.io/github/forks/YU123-ZZZ/ChatGPT-Codex--state-guardian?style=for-the-badge&logo=github&label=Fork&color=8a7dff" alt="Fork"></a><a href="https://github.com/YU123-ZZZ/ChatGPT-Codex--state-guardian/watchers"><img src="https://img.shields.io/github/watchers/YU123-ZZZ/ChatGPT-Codex--state-guardian?style=for-the-badge&logo=github&label=Watch&color=00bcd4" alt="Watch"></a><a href="https://github.com/YU123-ZZZ/ChatGPT-Codex--state-guardian/issues"><img src="https://img.shields.io/github/issues/YU123-ZZZ/ChatGPT-Codex--state-guardian?style=for-the-badge&logo=github&label=Issues" alt="Issues"></a><a href="https://github.com/YU123-ZZZ/ChatGPT-Codex--state-guardian"><img src="https://komarev.com/ghpvc/?username=YU123-ZZZ-ChatGPT-Codex-state-guardian&label=Views&color=ff69b4&style=for-the-badge" alt="Views"></a>
+</p>
+
 这是一个给 Windows 用的 ChatGPT(Codex) 本地备份恢复脚本。双击脚本就能用，先看状态，再备份或恢复。
 
 最后更新：2026-07-21
